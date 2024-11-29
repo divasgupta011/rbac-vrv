@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Debugger settings
+.vscode/
+
+# Build files
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# IDE-specific files
+.idea/
+*.iml
+
+# Docker files
+docker-compose.override.yml
